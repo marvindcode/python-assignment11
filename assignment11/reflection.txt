@@ -1,0 +1,12 @@
+1. Difference betweeen static and interactive visualizations
+The static visualizations just shows a result like a picture, if is a graph shows the two axis and shows the information in the graph option we select, like bar, line, etc.
+The interactive visualization shows the graphic with a dropdown menu showing the diferent option, this type of graph is more interactive, the displayed results
+changes according the option selected.
+
+2. Advantages of using dashboards for real time data
+One of the advantages of updating the results every certain time, is that we can display the most recent results and not a result in the past.
+For instance if the operations of a plant ends at 4:00pm the results can be displayed a few minutes after to see what results were at the end of the day 
+and not results from previous day not evaluating what happen on the most recent date.
+
+3. Dash and Plotly helps to display results in real time and interactive way which helps to get data insights that can be discussed on a team
+and get a more deply analisis with information in real time.
